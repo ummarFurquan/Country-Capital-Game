@@ -1,3 +1,10 @@
+//LInk to the Problem and solution
+//https://devtools.tech/questions/s/build-country-capital-game-or-microsoft-frontend-interview-question-or-javascript-or-react-js---qid---yPb5g7MLCSf6j2F3qjqj
+//https://www.youtube.com/watch?v=Iv1gZN900uc
+
+
+
+
 import React from "react";
 import _ from "lodash";
 import classnames from "classnames";
